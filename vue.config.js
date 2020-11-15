@@ -1,8 +1,8 @@
 module.exports = {
   pwa: {
     name: 'Alune',
-    themeColor: '#4E6BAE',
-    msTileColor: '#4E6BAE',
+    themeColor: '#6664c7',
+    msTileColor: '#6664c7',
     manifestOptions: {
       name: 'Alune',
       shortName: 'Alune',
